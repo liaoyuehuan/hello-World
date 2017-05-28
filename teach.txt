@@ -6,3 +6,6 @@ git status
 git commit          
 git rm --cached test.txt                               #删除
 git commit -m "change "
+
+git branch login                                       #创建分支
+git checkout login                                     #切换分支
