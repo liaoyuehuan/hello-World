@@ -9,3 +9,12 @@ git commit -m "change "
 
 git branch login                                       #创建分支
 git checkout login                                     #切换分支
+
+
+git merge login                                        #合并
+
+git remote add origin https://github.com/liaoyuehuan/hello-World.git
+git remote
+
+git push -u origin master
+git push 
