@@ -4,4 +4,5 @@ git config --global user.email  "13098934442@qq.com"
 git add file   [.(所有文件)] [*.html]                                         
 git status                                             
 git commit          
-git rm --cached test.txt                                   
+git rm --cached test.txt                               #删除
+git commit -m "change "
